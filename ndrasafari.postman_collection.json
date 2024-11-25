@@ -1,0 +1,410 @@
+{
+	"info": {
+		"_postman_id": "4963382c-e658-410a-bcd5-04e9e41a2040",
+		"name": "ndrasafari",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "31099135",
+		"_collection_link": "https://lively-comet-393745.postman.co/workspace/Esoptron~fa42ce3b-3a23-4034-8c63-72105b6168d2/collection/31099135-4963382c-e658-410a-bcd5-04e9e41a2040?action=share&source=collection_link&creator=31099135"
+	},
+	"item": [
+		{
+			"name": "home-intro",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://ndra-safari-production-7e13.up.railway.app/home/homeintro/",
+					"protocol": "https",
+					"host": [
+						"ndra-safari-production-7e13",
+						"up",
+						"railway",
+						"app"
+					],
+					"path": [
+						"home",
+						"homeintro",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "homesubintro",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://ndra-safari-production-7e13.up.railway.app/home/homesubintro",
+					"protocol": "https",
+					"host": [
+						"ndra-safari-production-7e13",
+						"up",
+						"railway",
+						"app"
+					],
+					"path": [
+						"home",
+						"homesubintro"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "homevideo",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://ndra-safari-production-7e13.up.railway.app/home/homevideo/",
+					"protocol": "https",
+					"host": [
+						"ndra-safari-production-7e13",
+						"up",
+						"railway",
+						"app"
+					],
+					"path": [
+						"home",
+						"homevideo",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "tip",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://ndra-safari-production-7e13.up.railway.app/home/tip",
+					"protocol": "https",
+					"host": [
+						"ndra-safari-production-7e13",
+						"up",
+						"railway",
+						"app"
+					],
+					"path": [
+						"home",
+						"tip"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "testimonials",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://ndra-safari-production-7e13.up.railway.app/home/testimonials",
+					"protocol": "https",
+					"host": [
+						"ndra-safari-production-7e13",
+						"up",
+						"railway",
+						"app"
+					],
+					"path": [
+						"home",
+						"testimonials"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "sitefooter",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://ndra-safari-production-7e13.up.railway.app/home/sitefooter",
+					"protocol": "https",
+					"host": [
+						"ndra-safari-production-7e13",
+						"up",
+						"railway",
+						"app"
+					],
+					"path": [
+						"home",
+						"sitefooter"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "destinations",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://ndra-safari-production-7e13.up.railway.app/destinations/destinations",
+					"protocol": "https",
+					"host": [
+						"ndra-safari-production-7e13",
+						"up",
+						"railway",
+						"app"
+					],
+					"path": [
+						"destinations",
+						"destinations"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "destinationlocations",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://ndra-safari-production-7e13.up.railway.app/destinations/destinationlocations",
+					"protocol": "https",
+					"host": [
+						"ndra-safari-production-7e13",
+						"up",
+						"railway",
+						"app"
+					],
+					"path": [
+						"destinations",
+						"destinationlocations"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "destinationLodges",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://ndra-safari-production-7e13.up.railway.app/destinations/destinationlodge/1",
+					"protocol": "https",
+					"host": [
+						"ndra-safari-production-7e13",
+						"up",
+						"railway",
+						"app"
+					],
+					"path": [
+						"destinations",
+						"destinationlodge",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "destinationdetails",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://ndra-safari-production-7e13.up.railway.app/destinations/destinationdetails/1",
+					"protocol": "https",
+					"host": [
+						"ndra-safari-production-7e13",
+						"up",
+						"railway",
+						"app"
+					],
+					"path": [
+						"destinations",
+						"destinationdetails",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "lodges",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://ndra-safari-production-7e13.up.railway.app/lodges/lodges",
+					"protocol": "https",
+					"host": [
+						"ndra-safari-production-7e13",
+						"up",
+						"railway",
+						"app"
+					],
+					"path": [
+						"lodges",
+						"lodges"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "lodgelocation",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://ndra-safari-production-7e13.up.railway.app/lodges/lodgelocations",
+					"protocol": "https",
+					"host": [
+						"ndra-safari-production-7e13",
+						"up",
+						"railway",
+						"app"
+					],
+					"path": [
+						"lodges",
+						"lodgelocations"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "safarideastag",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://ndra-safari-production-7e13.up.railway.app/safariideas/safariideatags/",
+					"protocol": "https",
+					"host": [
+						"ndra-safari-production-7e13",
+						"up",
+						"railway",
+						"app"
+					],
+					"path": [
+						"safariideas",
+						"safariideatags",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "safaridea",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://ndra-safari-production-7e13.up.railway.app/safariideas/safariideas/",
+					"protocol": "https",
+					"host": [
+						"ndra-safari-production-7e13",
+						"up",
+						"railway",
+						"app"
+					],
+					"path": [
+						"safariideas",
+						"safariideas",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "safaridaybydayiteration",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://ndra-safari-production-7e13.up.railway.app/safariideas/safaridaybydayiteration/1",
+					"protocol": "https",
+					"host": [
+						"ndra-safari-production-7e13",
+						"up",
+						"railway",
+						"app"
+					],
+					"path": [
+						"safariideas",
+						"safaridaybydayiteration",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "stories",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://ndra-safari-production-7e13.up.railway.app/stories/stories",
+					"protocol": "https",
+					"host": [
+						"ndra-safari-production-7e13",
+						"up",
+						"railway",
+						"app"
+					],
+					"path": [
+						"stories",
+						"stories"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "story-images",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "sendquotation",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\": \"Reuben Magala\",\r\n    \"phone\": \"0705099093\",\r\n    \"email\": \"magalareuben60@gmail.com\",\r\n    \"country\": \"uganda\",\r\n    \"destination\": \"Queen Elizabeth National Park\",\r\n    \"Travel dates\": \"12-07-2024\",\r\n    \"duration of stay\": \"6 days\",\r\n    \"number of travelers\": \"3\",\r\n    \"additional info\": \"we hope for a warm stay\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://ndra-safari-production-7e13.up.railway.app/home/sendemail/",
+					"protocol": "https",
+					"host": [
+						"ndra-safari-production-7e13",
+						"up",
+						"railway",
+						"app"
+					],
+					"path": [
+						"home",
+						"sendemail",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
